@@ -10,6 +10,7 @@ for COGS 18 Wi22. Access content via the links below.
 | 03   | Functions, Conditionals | [PDF][s03] |      | [Shivani's slides][e03a] |
 | 04   | Collections             | [PDF][s04] |      | [Shivani's slides][e04a] |
 | 05   | Exam Recap, Loops       | [PDF][s05] |      | [Shivani's slides][e05a] |
+| 06   | Classes       | [PDF][s06] |      | [Shivani's slides][e06a] |
 
 [s01]: https://github.com/SamLau95/cogs18-labs-wi22/blob/main/lab01/lab01.pdf
 [d01]: http://datahub.ucsd.edu/hub/user-redirect/git-sync?repo=https://github.com/SamLau95/cogs18-labs-wi22&subPath=lab01/lab01.ipynb
@@ -23,3 +24,5 @@ for COGS 18 Wi22. Access content via the links below.
 [e04a]: https://docs.google.com/presentation/d/1VWk4XqJUCP7_EHg1iO2j6NjEB2feuE1Zz2AJrHtvcBg/edit?usp=sharing
 [s05]: https://github.com/SamLau95/cogs18-labs-wi22/blob/main/lab05/lab05.pdf
 [e05a]: https://docs.google.com/presentation/d/1fjEbmSkIyDgFfN2e4VsMqa5upS1xXZaJJhJhwivKFUY/edit?usp=sharing
+[s06]: https://github.com/SamLau95/cogs18-labs-wi22/blob/main/lab06/lab06.pdf
+[e06a]: https://docs.google.com/presentation/d/1aMVyxFRReTz_P81GF9fkCaC_oLsbNgraX0cng2qAHYo/edit?usp=sharing
